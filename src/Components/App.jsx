@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import "../SCSS/App.scss";
 import Note from "./Note";
-
+ 
 const App = () => {
   const [isEditing, setEditing] = useState(false);
   const inputRef = useRef();
