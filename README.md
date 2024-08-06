@@ -7,6 +7,11 @@ install - `$ yarn install`
 
 start -  `$ yarn run start`
 
-test - `$ yarn run test`
+<!-- test - `$ yarn run test` -->
 
-build - `$ yarn run build`
+<!-- build - `$ yarn run build` -->
+
+this is julien712-dev
+
+<!-- Co-authored-by: name julien712-dev
+Co-authored-by: another-name miclejulien@gmail.com -->
